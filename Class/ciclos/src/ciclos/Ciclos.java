@@ -42,11 +42,12 @@ public class Ciclos {
         System.out.print("\n");        
         for (int i =  cantidad-1; i> -1; i--) {
            System.out.println(i);
+          
         }
         
         /**
          * ciclo while
-         * 
+         *
          */
         while(suma<=cantidad)
         {
