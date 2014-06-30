@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {  
         
          int diames;
-          int año;
+         int año;
               
         Scanner leer = new Scanner(System.in);
         System.out.println("digite el numero de mes del 1 al 12");
